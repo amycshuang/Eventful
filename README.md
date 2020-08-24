@@ -2,7 +2,7 @@
 
 Eventful is an app that allows users to find and keep up with events.
 
-Eventful%20Images/addpost.png
+<img src="Eventful%20Images/login.png" width="425"/> 
 
 ![](Eventful%20Images/login.png) ![](Eventful%20Images/userprofile.png) ![](Eventful%20Images/userprofile2.png)
 
